@@ -342,7 +342,7 @@ In this tutorial, we will use pre-formatted kraken2 ```human``` database to iden
 
     ---
 
-    **Quiz:** *What percent of the sequencing reads are classified as SARS-CoV-2?*
+    **Quiz:** *What percent of the sequencing reads are classified as non-human?*
 
     More information on output formats can be found [here](https://github.com/DerrickWood/kraken2/wiki/Manual#output-formats).
 
