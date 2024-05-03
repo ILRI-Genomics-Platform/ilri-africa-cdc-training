@@ -200,7 +200,7 @@ interactive -w compute05
     ```
     module load fastqc/0.11.7 fastp/0.22.0 \
     kraken/2.0.8-beta bowtie2/2.3.4.1 samtools/1.11 ivar/1.3.1 \
-    bedtools/2.29.0 R/3.6 bcftools/1.11 snpeff/4.1g multiqc/1.12 \
+    bedtools/2.29.0 R/4.2 bcftools/1.11 snpeff/4.1g multiqc/1.12 \
     nextclade/1.11.0 python/3.9
     ```
 3. To list the loaded modules, type the below command.
