@@ -242,7 +242,7 @@ interactive -w compute05
 
 
     ***Optional***
-    In the (unlikely?) event that you need to build one yourself, you can build one using the commands found [here](http://pcingola.github.io/SnpEff/se_buildingdb/)
+    In the (unlikely?) event that you need to build one yourself, you can build one using the commands found [here](http://pcingola.github.io/SnpEff/snpeff/build_db/)
 
 #### ***Quality assessment***
 [`FastQC`](https://www.youtube.com/watch?v=bz93ReOv87Y)  is a common tool for Illumina read quality checks. The basic statistics from this report include `total sequences`, `sequence length` and `%GC`. Another 10 measures of quality are also graphically represented. Your experimental design will be crirical in interpreting `FastQC` reports. This step is very important for the subsequent data processes, especially at initial optimisation steps.
