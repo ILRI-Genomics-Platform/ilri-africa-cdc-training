@@ -187,7 +187,7 @@ interactive -w compute05
     module load samtools/1.11
     module load ivar/1.3.1
     module load bedtools/2.29.0
-    module load R/3.6
+    module load R/4.2
     module load bcftools/1.11
     module load snpeff/4.1g
     module load multiqc/1.12
